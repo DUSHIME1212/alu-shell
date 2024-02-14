@@ -4,7 +4,7 @@
 #	-In between every I am alive! message, the program should pause for 2 seconds
 
 
-while 0==0
+while true
 do
     sudo bash -c 'echo "I am alive!" >> /tmp/my_process'
     sleep 2
